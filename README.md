@@ -24,5 +24,5 @@ The best glitch uptimer out there!
 This repo is under the Apache License 2.0.<br>
 See [LICENSE](https://github.com/navaneethkm004/glitch-uptimer/blob/master/LICENSE) File.
 
-
+# Credits
 Inspired from DarkBoy's Glitch uptimer!!
