@@ -1,0 +1,39 @@
+{
+  "name": "glitch-uptimer",
+  "version": "1.0.0",
+  "description": "Best Glitch uptimer out there",
+  "main": "server.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "jimp": "^0.16.1",
+    "js-yaml": "^4.0.0",
+    "mathjs": "^9.2.0",
+    "ms": "^2.1.3",
+    "node-bash-title": "0.0.2",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm install",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/glitch-uptimer.git"
+  },
+  "keywords": [
+    "glitch",
+    "glitch247",
+    "uptimer",
+    "uptime",
+    "ping",
+    "pinger"
+  ],
+  "author": "Navaneeth K M",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/glitch-uptimer/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/glitch-uptimer#readme"
+}
