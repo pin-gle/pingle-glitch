@@ -10,7 +10,7 @@ The best glitch uptimer out there!
 
 ## Run the bot
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/navaneethkm004/glitch-uptimer)<br>
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/navaneethkm004/glitch-uptimer)<br><br>
 [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/glitch-uptimer)](https://repl.it/github/navaneethkm004/glitch-uptimer)
 
 ## Author
