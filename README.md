@@ -72,10 +72,7 @@ without the { } and uptime the website.
 4. If in Repl, start the bot and if in Glitch, it would start automatically.
 5. Get the `repl.co` link from the Repl and uptime it in [Pingle web](https://repl.pingle.ml). If you are in Glitch, get the project link for viewing and copy it. Then paste it in [Pingle](https://discord.com/oauth2/authorize?client_id=809212990427365416&scope=bot&permissions=486464) bot or in the web version.
 6. Follow the 5th step to make the uptime bot you made run 24/7.
-
-
-
-
-
-
+<br>
+<br>
+<br>
 Pingle   &copy; 2021 Navaneeth K M
