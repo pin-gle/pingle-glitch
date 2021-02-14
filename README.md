@@ -3,10 +3,10 @@
     </div>
 <br>
 
-ㅤㅤㅤㅤㅤㅤㅤ🍭 The best free and open source website monitoring system with discord bot and android app facility.<br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍬 Database: SQLITE (quick.db) and MongoDB (quickmongo).<br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍫 Language: JavaScript, HTML (NodeJS)<br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🧁Start cmd: node index.js<br>
+ㅤㅤㅤ🍭 The best free and open source website monitoring system with discord bot and android app facility.<br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍬 Database: SQLITE (quick.db) and MongoDB (quickmongo).<br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍫 Language: JavaScript, HTML (NodeJS)<br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤStart cmd: node index.js<br>
 
 ## INVITING/USING PINGLE
 - Invite Pingle by clicking here -- [![INVITE](https://img.shields.io/badge/INVITE-Pingle%20Bot-blue)](https://discord.com/oauth2/authorize?client_id=809212990427365416&scope=bot&permissions=486464)<br>
