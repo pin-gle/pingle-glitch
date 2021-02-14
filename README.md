@@ -74,4 +74,4 @@ without the { } and uptime the website.
 6. Follow the 5th step to make the uptime bot you made run 24/7.
 
 
-<center>&copy; 2021 Navaneeth K M</center>
+Pingle   &copy; 2021 Navaneeth K M
