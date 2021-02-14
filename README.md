@@ -1,5 +1,5 @@
 <div class="header">
-            <a href="https://github.com/navaneethkm004/Pingle">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://github.com/navaneethkm004/my-images/blob/main/logo-pingle.png?raw=true" alt="logo" width="314" height="160" /></a>
+            <a href="https://github.com/navaneethkm004/Pingle">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://github.com/navaneethkm004/my-images/blob/main/logo-pingle.png?raw=true" alt="logo" width="314" height="160" /></a>ㅤ
     </div>
 <br>
 <center>
@@ -40,7 +40,7 @@
 without the { } and uptime the website.
 11. If you do not do the 10th step then your site many not be online for 24/7.
 
-### MONGODB
+### MONGODBㅤ
 1. Click <code>Run the MongoDB version</code> Button under **Run Pingle** header.
 2. Wait for it to clone.
 3. Now type <code>npm i</code> in the console or shell.
