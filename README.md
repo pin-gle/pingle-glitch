@@ -3,7 +3,7 @@
     </div>
 <br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤ🍭 The best free and open source website monitoring system with discord bot and android app facility.<br>
+ㅤㅤㅤㅤㅤㅤㅤ🍭 The best free and open source website monitoring system with discord bot and android app facility.<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍬 Database: SQLITE (quick.db) and MongoDB (quickmongo).<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🍫 Language: JavaScript, HTML (NodeJS)<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🧁Start cmd: node index.js<br>
