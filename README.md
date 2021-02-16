@@ -76,6 +76,4 @@ without the { } and uptime the website.
 <br>
 <br>
 
-[![HitCount](http://hits.dwyl.com/pingle-uptimer/pingle-glitch.svg)](http://hits.dwyl.com/pingle-uptimer/pingle-glitch)
-
 Pingle   &copy; 2021 Navaneeth K M
