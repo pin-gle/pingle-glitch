@@ -1,5 +1,5 @@
 <div class="header">
-            <a href="https://github.com/navaneethkm004/Pingle">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://github.com/navaneethkm004/my-images/blob/main/logo-pingle.png?raw=true" alt="logo" width="314" height="160" /></a>ㅤ
+            <a href="https://github.com/pin-gle">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://github.com/navaneethkm004/my-images/blob/main/logo-pingle.png?raw=true" alt="logo" width="314" height="160" /></a>ㅤ
     </div>
 <br>
 
@@ -14,10 +14,10 @@
 <br>
 
 ## Run Pingle<br>
-[![SQLITE](https://img.shields.io/badge/SQLITE-Run%20the%20SQLite%20version-blue)](https://repl.it/github/pingle-uptimer/pingle-sqlite)<br>
-[![MONGODB](https://img.shields.io/badge/MONGODB-Run%20the%20MongoDB%20version-green)](https://repl.it/github/pingle-uptimer/pingle-mongo)<br>
-[![DISCORD](https://img.shields.io/badge/DISCORD-Run%20the%20bot-red)](https://repl.it/github/pingle-uptimer/pingle-bot)<br>
-[![DISCORD](https://img.shields.io/badge/DISCORD-Run%20the%20Glitch%20uptimer-maroon)](https://repl.it/github/pingle-uptimer/pingle-glitch)
+[![SQLITE](https://img.shields.io/badge/SQLITE-Run%20the%20SQLite%20version-blue)](https://repl.it/github/pin-gle/pingle-sqlite)<br>
+[![MONGODB](https://img.shields.io/badge/MONGODB-Run%20the%20MongoDB%20version-green)](https://repl.it/github/pin-gle/pingle-mongo)<br>
+[![DISCORD](https://img.shields.io/badge/DISCORD-Run%20the%20bot-red)](https://repl.it/github/pin-gle/pingle-bot)<br>
+[![DISCORD](https://img.shields.io/badge/DISCORD-Run%20the%20Glitch%20uptimer-maroon)](https://repl.it/github/pin-gle/pingle-glitch)
 
 ## Tutorial
 [<img src="">]()
